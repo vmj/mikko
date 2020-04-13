@@ -1,0 +1,8 @@
+.header {
+    background-image: url('/img/why.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    height: 375px;
+    width: 100%;
+}
